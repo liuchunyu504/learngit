@@ -21,7 +21,7 @@ public static void readerFile(){
 	bw = new BufferedWriter(new FileWriter("b.txt"));
 	 readLine();
 	 newLine();
-}
+}test   test   
  public static void testDemo(){
  	InputStream is = new FileInputStresam();
  	OutputStream os = new FileOutPutStream("b.txt");
